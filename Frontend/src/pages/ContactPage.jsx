@@ -13,7 +13,7 @@ const ContactPage = () => {
         <img className='w-full md:max-w-[600px]' src={assets.contact_image} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-xl text-grey-600'>Our Store</p>
-          <p className='text-grey-500'>ThiBeauty ,482 Mithai Street,<br /> Sevlali Camp, Nashik, Maharashtra, <br /> India, Pin-Code-422401</p>
+          <p className='text-grey-500'>ThiBeauty ,482 Mithai Street,<br /> Devlali Camp, Nashik, Maharashtra, <br /> India, Pin-Code-422401</p>
           <p className='font-semibold text-xl text-grey600'>Contact Details</p>
           <p>Contact No: (+91) 9823997860 <br /> Email: thi.beauty10@gmail.com</p>
           <p></p>

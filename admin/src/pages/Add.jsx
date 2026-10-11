@@ -102,14 +102,14 @@ const Add = ({ token }) => {
           <select onChange={(e) => SetSelectedProduct(e.target.value)} value={selectedproduct} className='w-full px-3 py-2'>
             <option value="Bajuband">Bajuband</option>
             <option value="Bangles">Bangle's</option>
-            <option value="Bracelet's">Bracelet's</option>
-            <option value="Eartop's">Eartop's</option>
-            <option value="Earing's">Earing's</option>
-            <option value="Hair Accessories">Hair Accessories</option>
-            <option value="Hair Style's">Hair Style's</option>
-            <option value="Kamarband's">Kamarband's</option>
-            <option value="Necklace's">Necklace's</option>
-            <option value="Nose Pin's">Nose Pin's</option>
+            <option value="Bracelet">Bracelet's</option>
+            <option value="Eartop">Eartop's</option>
+            <option value="earing">Earing's</option>
+            <option value="hairaccessories">Hair Accessories</option>
+            <option value="hairstyle">Hair Style's</option>
+            <option value="kamarband">Kamarband's</option>
+            <option value="necklace">Necklace's</option>
+            <option value="nosepin">Nose Pin's</option>
           </select>
         </div>
 
